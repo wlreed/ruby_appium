@@ -6,4 +6,4 @@ gem 'appium_console'
 gem 'rubocop'
 gem 'rubocop-rspec'
 gem 'lefthook'
-
+gem 'test-unit'
