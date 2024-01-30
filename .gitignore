@@ -1,0 +1,5 @@
+ios/app_and_ipa
+android/apk
+
+*.DS_Store
+

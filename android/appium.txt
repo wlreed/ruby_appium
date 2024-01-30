@@ -1,0 +1,8 @@
+[caps]
+platformName = 'Android'
+deviceName = 'Pixel 6 API 31'
+app = '/Users/walt/GithubProjects/ruby_appium/android/apk/TheApp.apk'
+automationName = 'UiAutomator2'
+[appium_lib]
+sauce_username = false
+
