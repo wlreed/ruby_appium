@@ -1,6 +1,0 @@
-require 'appium_lib'
-require 'test/unit/assertions'
-require_relative '../../common'
-require_relative '../views/home_view'
-require_relative '../views/login_view'
-require_relative '../views/user_view'
