@@ -6,6 +6,6 @@ deviceName = 'iPhone 15'
 # deviceName = 'Test_iPhone'
 # udid = '00008030-000478EC22E3802E'
 # app = '/Users/walt/GithubProjects/ruby_appium/ios/app_and_ipa/TheApp-v1.10.0.ipa'
-app = '/Users/walt/GithubProjects/ruby_appium/ios/app_and_ipa/TheApp.app.zip'
+app = '/Users/walt/GithubProjects/ruby_appium/apps/TheApp.app.zip'
 [appium_lib]
 sauce_username = false

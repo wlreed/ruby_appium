@@ -1,5 +1,11 @@
+# test apps don't need to be committed
 ios/app_and_ipa
 android/apk
+apps
 
+# Apple stuff
 *.DS_Store
+
+# visual studio stuff
+.vscode
 
